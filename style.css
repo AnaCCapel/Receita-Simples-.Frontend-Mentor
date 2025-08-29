@@ -1,0 +1,150 @@
+:root {
+    --fonte-um: "Young Serif", serif;
+    --fonte-dois: "Outfit", sans-serif;
+    --cor-fonte-um: hsl(30, 10%, 34%);
+    --cor-fonte-dois: hsl(24, 5%, 18%);
+    --cor-fonte-tres: hsl(14, 45%, 36%);
+    --cor-fonte-quatro: hsl(332, 51%, 32%);
+    --cor-de-fundo: hsl(30, 54%, 90%);
+    --cor-de-fundo-receita: hsl(0, 0%, 100%);
+    --cor-fundo-tempo: hsl(330, 100%, 98%);
+}
+
+body {
+    color: var(--cor-fonte-um);
+    font-family: var(--fonte-dois);
+    background-color: var(--cor-de-fundo);
+}
+
+h1 {
+    letter-spacing: 2px;
+    color: var(--cor-fonte-dois);
+    font-family: var(--fonte-um);
+}
+
+h2 {
+    font-weight: 400;
+    color: var(--cor-fonte-tres);
+    font-family: var(--fonte-um);
+}
+
+hr {
+    margin: 20px 0;
+}
+
+.main {
+    width: 100vw;
+    margin: 80px 0;
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    width: 700px;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 13px;
+    background-color: var(--cor-de-fundo-receita);
+}
+
+img {
+    width: 100%;
+    margin-bottom: 25px;
+    align-self: center;
+    border-radius: 8px;
+}
+
+.introducao {
+    margin: 10px 0 30px 0;
+}
+
+.tempo {
+    font-size: 13px;
+    margin: auto;
+    margin-bottom: 15px;
+    width: 100%;
+    padding: 10px;
+    border-radius: 8px;
+    background-color: var(--cor-fundo-tempo);
+}
+
+.tempo h3 {
+    color: var(--cor-fonte-quatro);
+    margin-left: 20px;
+}
+
+.tempo ul li {
+    margin: 10px 30px;
+}
+
+.tempo-de-preparo li::marker {
+    color: var(--cor-fonte-quatro);
+}
+
+b {
+    margin-left: 10px;
+}
+
+.ingrediente li {
+    padding-left: 13px;
+}
+
+.preparo li {
+    margin: 10px 0 10px 22px;
+}
+
+.preparo li::marker {
+    font-family: var(--fonte-dois);
+    font-weight: 700;
+    color: var(--cor-fonte-tres);
+}
+
+.preparo p {
+    margin: 20px 0;
+}
+
+.preparo table {
+    width: 95%;
+    text-align: left;
+}
+
+.preparo table tr td:last-child {
+    font-weight: 700;
+    color: var(--cor-fonte-tres);
+}
+
+td {
+    padding: 12px 0;
+    border-bottom: 1px solid #ddd;
+}
+
+.rodape {
+    font-size: 11px;
+    font-family: var(--fonte-um);
+    text-align: center;
+}
+
+.rodape a {
+    color: #AA77FF
+}
+
+@media (max-width: 768px) {
+
+    body {
+        background-color: var(--cor-de-fundo-receita);
+    }
+
+    .main {
+        margin: 0;
+    }
+
+    .container {
+        padding: 0 20px;
+    }
+
+    img {
+        width: 120%;
+
+    }
+}
