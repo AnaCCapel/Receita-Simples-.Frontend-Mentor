@@ -11,10 +11,16 @@
 <img width="577" height="433" alt="Receita" src="https://github.com/user-attachments/assets/e40b49cd-7e2b-45d3-8679-79bc14792afb" />
 
 <br>
+
 ## 🎯 Objetivo:
-- Reproduzir uma estrutura organizada e legível o layout totalmente **responsivo** 📱💻,  
-- Usar **HTML semântico**  
+<br>
+- Reproduzir uma estrutura organizada e legível o layout totalmente **responsivo** 📱💻,
+<br>
+- Usar **HTML semântico** 
+<br>
 - Estilizar com **CSS**  
+<br>
 - Estrutura organizada e legível  
 <br>
-[![Made with Love](https://img.shields.io/badge/Made%20with-💜-AA77FF?style=flat-square)]()
+
+[![Made with Love](https://img.shields.io/badge/Made%20with-💜-AA77FF?style=flat-square)]()  
