@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Flex-Box-62CDFF?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/FlexBox-62CDFF?style=for-the-badge&logo=css3&logoColor=white" />
 <br>
 ## Projeto inspirado em um desafio do [Frontend Mentor](https://www.frontendmentor.io/profile/AnaCCapel).
 
