@@ -17,11 +17,8 @@
 ## 🎯 Objetivo:
 
 - Reproduzir uma estrutura organizada e legível o layout totalmente **responsivo** 📱💻
-<br>
-- Usar **HTML semântico** 
-<br>
-- Estilizar com **CSS**  
-<br>
+- Usar **HTML semântico**
+- Estilizar com **CSS**
 - Estrutura organizada e legível  
 
 <br>
