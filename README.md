@@ -21,6 +21,8 @@
 - Estilizar com **CSS**  
 <br>
 - Estrutura organizada e legível  
+
+<br>
 <br>
 
 [![Made with Love](https://img.shields.io/badge/Made%20with-💜-AA77FF?style=flat-square)]()  
