@@ -15,6 +15,7 @@
 <br>
 
 ## 🎯 Objetivo:
+
 - Reproduzir uma estrutura organizada e legível o layout totalmente **responsivo** 📱💻,
 <br>
 - Usar **HTML semântico** 
